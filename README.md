@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam05dz&label=Profile%20views&color=0e75b6&style=flat" alt="sam05dz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam05dz" alt="sam05dz" /></a> </p>
-
-- 🔭 I’m currently working on **My Master II Project**
-
-- 👨‍💻 All of my projects are available at [http://sam05dz.github.io](http://sam05dz.github.io)
-
-- 📝 I regularly write articles on [http://sam05dz.github.io](http://sam05dz.github.io)
+- 🔭 I’m currently working on **My Own Buisness**
 
 - 📫 How to reach me **z23hhous@gmail.com**
 
