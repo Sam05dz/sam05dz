@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Own Buisness**
 
-- 📫 How to reach me **z23hhous@gmail.com**
+- 📫 How to reach me **info@github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
